@@ -7,7 +7,6 @@ A simple terminal-based typing speed tester built using Python's 'curses' module
 - time
 
 ### Features
-
 - Live WPM calculation
 - Color-coded feedback:
   - ✅ Correct characters in green
